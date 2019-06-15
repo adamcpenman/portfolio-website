@@ -54,4 +54,7 @@ _ Watch this walk through video:  https://youtu.be/P2Y9W29kcjs
 - [ ] Download another template and see if you can get the CSS preprocessor working on the project
 
 Adam Penman 
+<<<<<<< HEAD
 Adam Penman 
+=======
+>>>>>>> 0136294cc00a0e5a4008ef8120787feb4e9bb036
